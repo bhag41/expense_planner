@@ -1,2 +1,2 @@
-# expense_tracker
-react app for expense tracker
+# expense_planner
+react app for expense planner
